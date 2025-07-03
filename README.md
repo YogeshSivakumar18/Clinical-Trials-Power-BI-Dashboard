@@ -12,7 +12,7 @@ This Power BI dashboard visualizes global clinical trial data with insights into
 ## Files
 - `Clinical Trials Dashboard.pbix` - Power BI report
 - `dashboard-preview.png` - Final layout
-- `data.csv` - dataset
+- `AERO-BirdsEye-Data.csv` - dataset
 
 ## Tools Used
 - Power BI Desktop
