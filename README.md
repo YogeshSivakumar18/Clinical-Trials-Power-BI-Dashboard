@@ -10,9 +10,9 @@ This Power BI dashboard visualizes global clinical trial data with insights into
 - Dynamic KPIs
 
 ## Files
-- `Clinical_Trials_Intelligence.pbix` - Power BI report
+- `Clinical Trials Dashboard.pbix` - Power BI report
 - `dashboard-preview.png` - Final layout
-- `data-sample.csv` - dataset
+- `data.csv` - dataset
 
 ## Tools Used
 - Power BI Desktop
