@@ -14,7 +14,7 @@ The dashboard is styled with a clean clinical look, soft blues, modern fonts, an
 
 ## Files
 - `Clinical Trials Dashboard.pbix` - Power BI report
-- `dashboard-preview.png` - Final layout
+- `Dashboard Preview.jpg` - Final layout
 - `AERO-BirdsEye-Data.csv` - dataset
 
 ## Tools Used
