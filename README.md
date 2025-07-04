@@ -1,6 +1,6 @@
 # Clinical Trials Intelligence Dashboard
 
-## Problem Statment:
+### Problem Statment:
 "Pharmaceutical companies and research organizations struggle to monitor and analyze large volumes of clinical trial data scattered across multiple phases, sponsors, conditions, and timelines. This lack of visibility hampers strategic decision-making in R&D prioritization, resource allocation, and performance benchmarking."
 
 This Power BI dashboard visualizes global clinical trial data with insights into trial phases, company contributions, enrollment patterns, and disease focus areas.
