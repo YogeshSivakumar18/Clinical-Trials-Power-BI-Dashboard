@@ -15,6 +15,8 @@ This project uses a cleaned and transformed dataset containing historical clinic
 
 The dashboard is styled with a clean clinical look, soft blues, modern fonts, and responsive layout, which makes it not only insightful but presentation-ready for stakeholders.
 
+![Dashboard Preview](Dashboard Preview.jpg)
+
 ## Files
 - `Clinical Trials Dashboard.pbix` - Power BI report
 - `Dashboard Preview.jpg` - Final layout
